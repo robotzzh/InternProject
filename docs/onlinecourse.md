@@ -1,0 +1,2 @@
+如果直接用curl -I 'https://mooc1.chaoxing.com/mycourse/studentstudy?chapterId=705051158&courseId=250490657&clazzid=116316244&cpi=208244590&enc=2fe6da5e666f7f01a78ae8e7aade151c&mooc2=1&openc=940eed213f8978cca7eb5492b4a2cca8'
+对超新星网课进行连接，就会出现405错误，即默认的GET方法不支持
